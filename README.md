@@ -22,7 +22,7 @@
 
 ![Блок-схема](схема(lab4).drawio.png)
 
-[Ссылка на блок-схему, созданную в draw.io](https://drive.google.com/file/d/10wpxS08_9BK-WKQdQcCYZMP-hFZ-TQFR/view?usp=drive_link)
+[Ссылка на блок-схему, созданную в draw.io](https://drive.google.com/file/d/1vWRUX_PmXDLs4357kOPvhLMO3tr8d5cw/view?usp=drive_link)
 
 ## 2. Реализация программы
 
