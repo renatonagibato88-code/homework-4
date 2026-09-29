@@ -20,7 +20,7 @@
 
 ### Блок-схема
 
-![Блок-схема](схема(Lab3).drawio.png)
+![Блок-схема](схема(Lab4).drawio.png)
 
 [Ссылка на блок-схему, созданную в draw.io](https://drive.google.com/file/d/10wpxS08_9BK-WKQdQcCYZMP-hFZ-TQFR/view?usp=drive_link)
 
