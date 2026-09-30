@@ -39,14 +39,7 @@ int main()
 
     condition = (A % 3 == 0) && (B % 3 == 0) && (C % 3 == 0);
 
-    if (condition)
-    {
-        printf("Портал открыт\n");
-    }
-    else
-    {
-        printf("Портал не открывается\n");
-    }
+    printf("Портал открыт 1 - да, 0 - нет: %d", condition);
 
     return 0;
 }
